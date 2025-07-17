@@ -1,2 +1,3 @@
 # modern-xmin
-eXtremely minimal goHugo theme
+
+An eXtremely minimal goHugo theme.
